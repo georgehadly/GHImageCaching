@@ -29,7 +29,7 @@ pod "GHImageCaching"
 
 ## Author
 
-George Hanna Adly, gadly@cloudconceptgroup.com
+George Hanna Adly, george.hanna.adly@hotmail.com
 
 ## License
 
