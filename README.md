@@ -18,7 +18,7 @@ it, simply add the following line to your Podfile:
 
 ## TO add a Custom path
 
-GO to Project->info then 
+GO to Project->info.plist then 
 
 <key>GHCachingPath</key>
 <string>you-Custom-Path</string>
