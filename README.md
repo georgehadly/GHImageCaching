@@ -16,6 +16,13 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 GHImageCaching is available through [CocoaPods](http://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
+## TO add a Custom path
+
+GO to Project->info then 
+
+<key>GHCachingPath</key>
+<string>you-Custom-Path</string>
+
 ```ruby
 pod "GHImageCaching"
 ```
